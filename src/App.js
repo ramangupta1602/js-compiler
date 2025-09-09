@@ -96,7 +96,7 @@ const App = () => {
             <header className="flex items-center justify-between p-3 bg-gray-800 border-b border-gray-700 shadow-md">
                 <div className="flex items-center space-x-3">
                      <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="text-cyan-400"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
-                    <h1 className="text-xl font-semibold text-gray-200">JavaScript Compiler UI</h1>
+                    <h1 className="text-xl font-semibold text-gray-200">JavaScript Compiler</h1>
                 </div>
                 <div className="flex items-center space-x-3">
                     <button
